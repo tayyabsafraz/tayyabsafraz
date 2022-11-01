@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tayyabsafraz
+- 👋 Hi, I’m Tayyab Sarfraz
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Python Programming language and Data Analysis using Real World Datasets.
 - 💞️ I’m looking to collaborate on Data Science and Data Analytics real world projects.
